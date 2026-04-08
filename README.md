@@ -1,11 +1,11 @@
-# Hi, I'm Wanru Gao 👋
+# Hi, I'm Wanru Gao ! 👋
 
 🌍 **Environmental Data Scientist** | Remote Sensing × Machine Learning
     | Climate & Carbon Systems
 
 📍 University of Nottingham | BSc Environmental Science 
 🛰️ Former NERC-funded Researcher @ NCEO Leicester (ESA FORUM Satellite)  
-🌿 Research: Urban Carbon Accounting × Peatland Monitoring × GeoAI
+🌿 Research: Urban Carbon Accounting × Peatland Monitoring × GeoAI 
 
 ---
 
