@@ -24,21 +24,11 @@ Previously: NERC-funded researcher at the National Centre for Earth Observation 
 
 ---
 
-## 🔭 Active Research
-
-**Dissertation (submitted):**  
-Multi-temporal Sentinel-2 analysis for peatland degradation mapping in  
-Scotland's Flow Country — K-means classification, NDVI trend analysis,  
-Google Earth Engine, 90% overall accuracy
-
-**Lead Author (in prep → Sustainable Cities and Society):**  
-UAV photogrammetry + Satellite + GEDI LiDAR for vegetation carbon stock  
-estimation at Wenzhou-Kean University, China  
-→ 3,617 tCO₂ sequestration vs 8,352 tCO₂ emissions  
+## 🔭 Active Research 
 
 | Project | Status | Key Finding |
 |---------|--------|-------------|
-| [Peatland Degradation Mapping — Flow Country](link) | ✅ Submitted dissertation | OA=90%, widespread greening ≠ recovery |
+| [Peatland Degradation Mapping — Flow Country, UK](link) | ✅ Submitted dissertation | OA=90%, widespread greening ≠ recovery |
 | [Carbon-Neutral Campus — WKU, China](link) | 📝 In preparation (*Sustainable Cities & Society*) | PV + vegetation can achieve carbon-positive |
 
 **Conference outputs:** XJTLU-UNNC 2026 · PolyU GeoAI Symposium 2026
