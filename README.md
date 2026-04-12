@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Wanru Gao 👋
+# Aha! I'm Wanru Gao 👋
 
 **Environmental Data Scientist** · Remote Sensing × Machine Learning × Climate Systems  
 
