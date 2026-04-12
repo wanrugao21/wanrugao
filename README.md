@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a second-year Environmental Science & Geography student at the University of Nottingham, working at the intersection of **Earth observation**, **machine learning**, and **climate systems**. My research asks: *how can we use satellite data, UAVs, and AI to make environmental decisions faster, smarter, and at scale?*
+I'm a final-year Environmental Science student at the University of Nottingham, working at the intersection of **Earth observation**, **machine learning**, and **climate systems**. My research asks: *how can we use satellite data, UAVs, and AI to make environmental decisions faster, smarter, and at scale?*
 
 Currently building two research threads:
 - 🌿 **Peatland carbon monitoring** — multi-temporal Sentinel-2 classification in Scotland's Flow Country
@@ -63,7 +63,7 @@ When I'm not running GEE scripts, I'm probably:
 - ✈️ Connecting environmental data to real policy (NERC CITEES project with BGS + Environment Agency)
 - 🌐 Exploring how Earth observation can support global climate governance
 
-*"The hardest part of climate science isn't building the model — it's making the output legible to the people who need to act on it."*
+*"The hardest part of climate science isn't building the model, but making the output legible to the people who need to act on it."*
 
 ---
 📫 wanrugao21@gmail.com  
