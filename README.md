@@ -17,8 +17,8 @@
 I'm a final-year Environmental Science student at the University of Nottingham, working at the intersection of **Earth observation**, **machine learning**, and **climate systems**. My research asks: *how can we use satellite data, UAVs, and AI to make environmental decisions faster, smarter, and at scale?*
 
 Currently building two research threads:
-- 🌿 **Peatland carbon monitoring** — multi-temporal Sentinel-2 classification in Scotland's Flow Country
-- 🏙️ **Urban carbon accounting** — UAV × satellite × GEDI LiDAR integration at a Chinese university campus
+- 🌿 **Peatland carbon monitoring** — multi-temporal Sentinel-2 classification in Scotland's Flow Country (UNESCO World Heritage Site)
+- 🏙️ **Urban carbon accounting** — UAV × satellite × GEDI LiDAR integration at a Chinese university campus & finding: PV + vegetation can achieve carbon-positive status
 
 Previously: NERC-funded researcher at the National Centre for Earth Observation (ESA FORUM Satellite Mission, University of Leicester)
 
@@ -28,8 +28,8 @@ Previously: NERC-funded researcher at the National Centre for Earth Observation 
 
 | Project | Status | Key Finding |
 |---------|--------|-------------|
-| [Peatland Degradation Mapping — Flow Country, UK](link) | ✅ Submitted dissertation | OA=90%, widespread greening ≠ recovery |
-| [Carbon-Neutral Campus — WKU, China](link) | 📝 In preparation (*Sustainable Cities & Society*) | PV + vegetation can achieve carbon-positive |
+| [Peatland Degradation Mapping — Flow Country, UK](https://github.com/wanrugao21/peatland-flow-country-gee) | ✅ Submitted dissertation | OA=90%, widespread greening ≠ recovery |
+| [Carbon-Neutral Campus — WKU, China](https://github.com/wanrugao21/carbon-neutral-campus-wku) | 📝 In preparation (*Sustainable Cities & Society*) | PV + vegetation can achieve carbon-positive |
 
 **Conference outputs:** XJTLU-UNNC 2026 · PolyU GeoAI Symposium 2026
 
@@ -59,7 +59,7 @@ Atmospheric    = ["LabFit", "HITRAN/ExoMol databases", "FIR spectroscopy"]
 ## 🌍 Beyond the Lab
 
 When I'm not running GEE scripts, I'm probably:
-- 🏔️ Doing field research in extreme environments (two Qinghai-Tibet Plateau expeditions, Everest base camp)
+- 🏔️ Doing field research in extreme environments (Qinghai-Tibet Plateau expedition, Everest base camp)
 - ✈️ Connecting environmental data to real policy (NERC CITEES project with BGS + Environment Agency)
 - 🌐 Exploring how Earth observation can support global climate governance
 
