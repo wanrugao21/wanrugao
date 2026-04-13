@@ -50,8 +50,8 @@ Atmospheric    = ["LabFit", "HITRAN/ExoMol databases", "FIR spectroscopy"]
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=wanrugao&show_icons=true&theme=default&hide_border=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanrugao&layout=compact&theme=default&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=wanrugao21&show_icons=true&theme=default&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanrugao21&layout=compact&theme=default&hide_border=true"/>
 </div>
 
 ---
