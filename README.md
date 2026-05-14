@@ -30,6 +30,7 @@ Previously: NERC-funded researcher at the National Centre for Earth Observation 
 |---------|--------|-------------|
 | [Peatland Degradation Mapping — Flow Country, UK](https://github.com/wanrugao21/peatland-flow-country-gee) | ✅ Submitted dissertation | OA=90%, widespread greening ≠ recovery |
 | [Carbon-Neutral Campus — WKU, China](https://github.com/wanrugao21/carbon-neutral-campus-wku) | 📝 In preparation (*Sustainable Cities & Society*) | PV + vegetation can achieve carbon-positive |
+| [Urban Digital Twins — 3-Layer Evaluation Framework](https://storymaps.arcgis.com/stories/c2ea1fa9c94e45988e1a879803ccc4ef/edit) | ✅ Completed | visualisation ≠ governance |
 
 **Conference outputs:** XJTLU-UNNC 2026 · PolyU GeoAI Symposium 2026
 
