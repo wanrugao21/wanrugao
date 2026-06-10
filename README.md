@@ -17,8 +17,8 @@
 I'm a final-year Environmental Science student at the University of Nottingham and will study further at Imperial College London, working at the intersection of **Earth observation**, **machine learning**, and **climate systems**. My research asks: *how can we use satellite data, UAVs, and AI to make environmental decisions faster, smarter, and at scale?*
 
 Currently building two research threads:
-- 🌿 **Peatland carbon monitoring** — multi-temporal Sentinel-2 classification in Scotland's Flow Country (UNESCO World Heritage Site)
-- 🏙️ **Urban carbon accounting** — UAV × satellite × GEDI LiDAR integration at a Chinese university campus & finding: PV + vegetation can achieve carbon-positive status
+- 🌿 **Peatland carbon monitoring** - multi-temporal Sentinel-2 classification in Scotland's Flow Country (UNESCO World Heritage Site)
+- 🏙️ **Urban carbon accounting** - UAV × satellite × GEDI LiDAR integration at a Chinese university campus & finding: PV + vegetation can achieve carbon-positive status
 
 Previously: NERC-funded researcher at the National Centre for Earth Observation (ESA FORUM Satellite Mission, University of Leicester)
 
