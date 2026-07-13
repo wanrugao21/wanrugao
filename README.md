@@ -1,7 +1,7 @@
 <div align="center">
   
 # Aha! I'm Wanru Gao 👋
-
+ 
 **Environmental Data Scientist** · Remote Sensing × Machine Learning × Climate Systems  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanru-gao-9581672b9)
