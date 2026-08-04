@@ -28,7 +28,7 @@ Previously: NERC-funded researcher at the National Centre for Earth Observation 
 
 | Project | Status | Key Finding |
 |---------|--------|-------------|
-| [Peatland Degradation Mapping — Flow Country, UK](https://github.com/wanrugao21/peatland-flow-country-gee) | ✅ Submitted dissertation | OA=90%, widespread greening ≠ recovery |
+| [Peatland Degradation Mapping — Flow Country, UK](https://github.com/wanrugao21/peatland-flow-country-gee) | ✅ Submitted | OA=90%, widespread greening ≠ recovery |
 | [Carbon-Neutral Campus — WKU, China](https://github.com/wanrugao21/carbon-neutral-campus-wku) | 📝 In preparation (*Sustainable Cities & Society*) | PV + vegetation can achieve carbon-positive |
 | [Urban Digital Twins — 3-Layer Evaluation Framework](https://storymaps.arcgis.com/stories/c2ea1fa9c94e45988e1a879803ccc4ef/edit) | ✅ Completed | visualisation ≠ governance |
 | [Nottingham CITEES Talent Pipeline Analysis](https://github.com/wanrugao21/nottingham-citees-graduate-pipeline-analysis/blob/main/README.md#overview) | Phase 1 complete | East Midlands retains only 5.1% of national graduate talent |
