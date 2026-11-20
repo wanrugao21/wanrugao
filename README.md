@@ -11,7 +11,7 @@ University College London
 ·
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wanrugao21@gmail.com)
 ·
-[![University](https://img.shields.io/badge/University_of_Nottingham-002147?style=flat)](https://www.nottingham.ac.uk)
+[![University](https://img.shields.io/badge/UCL-361a54?style=flat)](https://www.ucl.ac.uk)
 
 </div>
 
