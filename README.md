@@ -1,11 +1,16 @@
 <div align="center">
   
-# Aha! I'm Wanru Gao 👋
- 
-**Environmental Data Scientist** · Remote Sensing × Machine Learning × Climate Systems  
+# Wanru Gao 
+
+### Spatio-temporal Data Science | Spatial Analytics | Machine Learning
+
+MSc Spatio-temporal Analytics and Big Data Mining  
+University College London
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanru-gao-9581672b9)
+·
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wanrugao21@gmail.com)
+·
 [![University](https://img.shields.io/badge/University_of_Nottingham-002147?style=flat)](https://www.nottingham.ac.uk)
 
 </div>
@@ -14,43 +19,88 @@
 
 ## About Me
 
-I'm a final-year Environmental Science student at the University of Nottingham and will study further at Imperial College London, working at the intersection of **Earth observation**, **machine learning**, and **climate systems**. My research asks: *How can we use satellite data, UAVs, and AI to make environmental decisions faster, smarter, and at scale?*
-
-Currently building two research threads:
-- 🌿 **Peatland carbon monitoring** - multi-temporal Sentinel-2 classification in Scotland's Flow Country (UNESCO World Heritage Site)
-- 🏙️ **Urban carbon accounting** - UAV × satellite × GEDI LiDAR integration at a Chinese university campus & finding: PV + vegetation can achieve carbon-positive status
-
-Previously: NERC-funded researcher at the National Centre for Earth Observation (ESA FORUM Satellite Mission, University of Leicester)
+I am a postgraduate student at UCL specialising in spatio-temporal analytics and big data mining, with a background in Environmental Science from the University of Nottingham.
+My work combines spatial statistics, geospatial data processing, remote sensing and computational analysis to investigate complex real-world systems.
+I am particularly interested in:
+- Spatial and spatio-temporal data science
+- GeoAI and applied machine learning
+- Urban systems, mobility and transport analytics
+- Climate, energy and environmental data
+- Data-driven decision support
+My research experience includes independent spatial statistical analysis, satellite-based environmental monitoring, urban carbon assessment, scientific computing and large-scale education-to-employment data analysis.
 
 ---
 
-## 🔭 Active Research 
+## Selected Projects
 
-| Project | Status | Key Finding |
-|---------|--------|-------------|
-| [Peatland Degradation Mapping — Flow Country, UK](https://github.com/wanrugao21/peatland-flow-country-gee) | ✅ Submitted | OA=90%, widespread greening ≠ recovery |
-| [Carbon-Neutral Campus — WKU, China](https://github.com/wanrugao21/carbon-neutral-campus-wku) | 📝 In preparation (*Sustainable Cities & Society*) | PV + vegetation can achieve carbon-positive |
-| [Urban Digital Twins — 3-Layer Evaluation Framework](https://storymaps.arcgis.com/stories/c2ea1fa9c94e45988e1a879803ccc4ef/edit) | ✅ Completed | visualisation ≠ governance |
-| [Nottingham CITEES Talent Pipeline Analysis](https://github.com/wanrugao21/nottingham-citees-graduate-pipeline-analysis/blob/main/README.md#overview) | Phase 1 complete | East Midlands retains only 5.1% of national graduate talent |
+### 01. London Road Safety Spatial Analysis
+
+Spatial analysis of pedestrian and cyclist collisions using publicly available STATS19 data.
+
+- Global Moran's I
+- Local Moran's I
+- Getis-Ord Gi*
+- KSI analysis
+- Spatial count modelling 
+
+[Repository](https://github.com/wanrugao21/London-Road-Safety-Spatial-Analysis)
+
+### 02. Flow Country Peatland Analysis
+
+Sentinel-2 remote sensing and Google Earth Engine for peatland condition mapping in Scotland.
+
+- Multispectral image processing
+- K-means clustering
+- NDVI and NDWI
+- Accuracy assessment
+
+[Repository](https://github.com/wanrugao21/peatland-flow-country-gee)
+
+### 03. Carbon-Neutral Campus Research
+
+Multi-source analysis of vegetation carbon and photovoltaic potential at Wenzhou-Kean University.
+
+- UAV and satellite data integration
+- Vegetation carbon assessment
+- Random Forest modelling
+- Rooftop photovoltaic scenarios
+
+[Repository](https://github.com/wanrugao21/carbon-neutral-campus-wku)
+
+### 04. Nottingham CITEES Graduate Pipeline Analysis
+
+Multi-source data analysis of environmental science education and graduate employment pathways.
+
+[Repository](https://github.com/wanrugao21/nottingham-citees-graduate-pipeline-analysis)
+
+### 05. Urban Digital Twins
+
+A three-layer framework examining representation, interpretation and governance in urban digital twins.
+
+[Repository](https://github.com/wanrugao21/urban-digital-twins-geovisualisation)
+
+### 06. Eco-RS Monitor
+
+An AI-assisted scientific intelligence workflow for discovering and synthesising remote sensing research.
+
+[Repository](https://github.com/wanrugao21/Eco-RS-Monitor)
 
 **Conference outputs:** XJTLU-UNNC 2026 · PolyU GeoAI Symposium 2026
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ```python
-Remote_Sensing = ["Google Earth Engine (JS)", "ArcGIS Pro", "QGIS", "ERDAS"]
+Remote_Sensing = ["Spatial Statistics“, "Google Earth Engine (JS)", "ArcGIS Pro", "QGIS", "ERDAS"]
 ML_Methods     = ["Random Forest (GEE)", "K-means clustering", "GEDI LiDAR fusion"]
-Programming    = ["Python", "R (ggplot2, terra)", "JavaScript"]  
+Programming    = ["Python", "R (ggplot2, terra)", "JavaScript", "SQL"]  
 Field_Skills   = ["UAV operations (DJI Mavic 2/3 Pro)", "SfM-MVS", "Field sampling"]
 Atmospheric    = ["LabFit", "HITRAN/ExoMol databases", "FIR spectroscopy"]
 ```
-
 ---
 
-## 📊 GitHub Stats
-
+## GitHub Stats
 <div align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=wanrugao21&show_icons=true&theme=default&hide_border=true"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanrugao21&layout=compact&theme=default&hide_border=true"/>
@@ -58,15 +108,13 @@ Atmospheric    = ["LabFit", "HITRAN/ExoMol databases", "FIR spectroscopy"]
 
 ---
 
-## 🌍 Beyond the Lab
-
-When I'm not running GEE scripts, I'm probably:
+## Beyond the Lab
+When I'm not running scripts, I'm probably:
 - 🏔️ Doing field research in extreme environments (Qinghai-Tibet Plateau expedition, Everest base camp)
 - ✈️ Connecting environmental data to real policy (NERC CITEES project with BGS + Environment Agency)
-- 🌐 Exploring how Earth observation can support global climate governance
-
-*"The hardest part of climate science isn't building the model, but making the output legible to the people who need to act on it."*
+- 🌐 Exploring how data can support global governance
 
 ---
+## Contact
 📫 wanrugao21@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/wanru-gao-9581672b9)
